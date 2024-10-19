@@ -1,0 +1,164 @@
+[
+    {
+        "image": "/Images/banner/ex7.jpg",
+        "name": "Exhaust-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/ex1.jpg",
+        "name": "Exhaust-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo31.jpg",
+        "name": "Exhaust-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo32.jpg",
+        "name": "Exhaust-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.7"
+    },
+    {
+        "image": "/Images/banner/logo33.jpg",
+        "name": "Exhaust-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo35.jpg",
+        "name": "Exhaust-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.7"
+    },
+    {
+        "image": "/Images/banner/logo34.jpg",
+        "name": "Exhaust-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo38.jpg",
+        "name": "Exhaust-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo40.jpg",
+        "name": "Exhaust-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo37.jpg",
+        "name": "Exhaust-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo39.jpg",
+        "name": "Exhaust-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo36.jpg",
+        "name": "Exhaust-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/ex1.jpg",
+        "name": "Exhaust-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/ex5.jpg",
+        "name": "Exhaust-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/ex4.jpg",
+        "name": "Exhaust-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/ex2.jpg",
+        "name": "Exhaust-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/ex8.jpg",
+        "name": "Exhaust-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/ex3.jpg",
+        "name": "Exhaust-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    }
+]

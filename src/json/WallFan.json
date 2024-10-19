@@ -1,0 +1,164 @@
+[
+    {
+        "image": "/Images/banner/wa2.jpg",
+        "name": "Wall-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/wa1.jpg",
+        "name": "Wall-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/wa1.jpg",
+        "name": "Wall-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo24.jpg",
+        "name": "Wall-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/wa10.jpg",
+        "name": "Wall-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/wa5.jpg",
+        "name": "Wall-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo22.jpg",
+        "name": "Wall-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.7"
+    },
+    {
+        "image": "/Images/banner/logo28.jpg",
+        "name": "Wall-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo21.jpg",
+        "name": "Wall-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo25.jpg",
+        "name": "Wall-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.7"
+    },
+    {
+        "image": "/Images/banner/logo26.jpg",
+        "name": "Wall-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/wa8.jpg",
+        "name": "Wall-Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/wa4.jpg",
+        "name": "Wall-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/wa7.jpg",
+        "name": "Wall-Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/wa9.jpg",
+        "name": "Wall-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/wa5.jpg",
+        "name": "Wall-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/wa6.jpg",
+        "name": "Wall-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo27.jpg",
+        "name": "Wall-Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Convenient, easy to use, and provides fresh air for users.",
+        "rating": "4.9"
+    }
+]

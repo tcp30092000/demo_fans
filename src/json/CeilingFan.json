@@ -1,0 +1,164 @@
+[
+    {
+        "image": "/Images/banner/logo2.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo3.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.7"
+    },
+    {
+        "image": "/Images/banner/logo6.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/Ceil1.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo5.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.7"
+    },
+    {
+        "image": "/Images/banner/logo8.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/Ceil8.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo7.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/Ceil2.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo9.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo4.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo10.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/Ceil3.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/Ceil4.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/Ceil5.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/Ceil6.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/Ceil7.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo1.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Luxurious design combined with modern technology creates a product that meets user needs.",
+        "rating": "4.9"
+    }
+]

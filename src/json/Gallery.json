@@ -1,0 +1,128 @@
+[
+    {
+      "className": "gallery1",
+      "src": "./../Images/gallery/wall-fan-decor-4.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery1",
+      "src": "./../Images/gallery/pedestal-fan-decor-2.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery1",
+      "src": "./../Images/gallery/ceiling-fan-decor-4.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery2",
+      "src": "./../Images/gallery/ceiling-fan-decor-5.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery2",
+      "src": "./../Images/gallery/pedestal-fan-decor-1.webp",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery2",
+      "src": "./../Images/gallery/ceiling-fan-decor-3.webp",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery2",
+      "src": "./../Images/gallery/wall-fan-decor-2.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery3",
+      "src": "./../Images/gallery/ceiling-fan-decor-6.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery3",
+      "src": "./../Images/gallery/pedestal-fan-decor-3.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery1",
+      "src": "./../Images/gallery/wall-fan-decor-3.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery1",
+      "src": "./../Images/gallery/ceiling-fan-decor-1.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery1",
+      "src": "./../Images/gallery/wall-fan-decor-5.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery2",
+      "src": "./../Images/gallery/exhaust-fan-decor-1.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery2",
+      "src": "./../Images/gallery/wall-fan-decor-1.jpg",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+      "className": "gallery2",
+      "src": "./../Images/gallery/exhaust-fan-decor-2.webp",
+      "alt": "Ceiling Fan Decor"
+    },
+    {
+        "className": "gallery1",
+        "src": "./../Images/banner/logo1.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+      {
+        "className": "gallery1",
+        "src": "./../Images/banner/logo21.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+      {
+        "className": "gallery1",
+        "src": "./../Images/banner/logo22.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+      {
+        "className": "gallery2",
+        "src": "./../Images/banner/logo4.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+      {
+        "className": "gallery2",
+        "src": "./../Images/banner/logo5.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+      {
+        "className": "gallery2",
+        "src": "./../Images/banner/logo6.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+      {
+        "className": "gallery2",
+        "src": "./../Images/banner/logo7.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+      {
+        "className": "gallery3",
+        "src": "./../Images/banner/logo8.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+      {
+        "className": "gallery3",
+        "src": "./../Images/banner/logo10.jpg",
+        "alt": "Ceiling Fan Decor"
+      },
+    {
+      "className": "gallery2",
+      "src": "./../Images/gallery/exhaust-fan-decor-3.jpg",
+      "alt": "Ceiling Fan Decor"
+    }
+  ]
+  

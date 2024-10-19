@@ -1,0 +1,164 @@
+[
+    {
+        "image": "/Images/banner/logo18.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/pe6.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.7"
+    },
+    {
+        "image": "/Images/banner/logo17.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/pe5.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/pe10.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.7"
+    },
+    {
+        "image": "/Images/banner/logo19.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo14.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo16.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/pe1.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/logo20.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo13.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/logo12.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/pe2.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/pe4.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/pe9.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/pe3.jpg",
+        "name": "Ceiling Fan Model C",
+        "price": "$65",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.9"
+    },
+    {
+        "image": "/Images/banner/pe8.jpg",
+        "name": "Ceiling Fan Model A",
+        "price": "$50",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.8"
+    },
+    {
+        "image": "/Images/banner/pe7.jpg",
+        "name": "Ceiling Fan Model B",
+        "price": "$75",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "Brings comfort and elegance to your home. Designed with a luxurious and modern style.",
+        "rating": "4.9"
+    }
+]
